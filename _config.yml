@@ -1,12 +1,15 @@
-title: Najib Adan # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: <p align="center"> Najib Adan </p>
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
+  <a href="https://www.linkedin.com/in/najib-adan-639612181/">LinkedIn</a> |
+  <a href="https://github.com/NajibAdan">GitHub</a>
+  </p>
   I am Data Analyst with one year experience.
   <br><br>
   I currently work at a government owned state company in the oil and gas industry where I design and implement solutions for departments. 
   Recently I have been researching about using drones with computer vision in detecting objects and actions. 
   <br><br>
-  <a href="https://www.linkedin.com/in/najib-adan-639612181/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
