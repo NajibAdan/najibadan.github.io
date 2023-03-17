@@ -10,6 +10,7 @@ I used exploratory and explanatory visualizations based on the data available fr
 - How the trips were spread out geographically
 - How gender, age and even membership can affect ride duration
 - How the trips were distributed across the month and day.
+
 You can read my [report](html/fordgobike.html)
 <img src="images/fordgobike.png?raw=true"/>
 
