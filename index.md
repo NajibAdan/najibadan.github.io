@@ -9,7 +9,8 @@
 I used exploratory and explanatory visualizations based on the data available from the Ford Gobike share program in the San Francisco area to showcase: 
 - How the trips were spread out geographically
 - How gender, age and even membership can affect ride duration
-- How the trips were distributed across the month and day
+- How the trips were distributed across the month and day.
+You can read my [report](html/fordgobike.html)
 <img src="images/fordgobike.png?raw=true"/>
 
 ---
@@ -34,10 +35,6 @@ The Jouyou kanji (literally regular use Chinese Characters) are a list of kanji 
 Using the StackOverflow API and Postgres, I created a data pipeline that fetches information about questions posted on StackOverflow and stores them to a Postgres Database. 
 <img src="images/stackoverflow.png?raw=true"/>
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
