@@ -4,12 +4,17 @@
 
 ### Data Visualization and Analysis
 
+[EdTech Data Analysis](https://github.com/NajibAdan/EdTech_Analysis)
+I conducted a comprehensive analysis of the customer acquisition process of an EdTech company to identify the factors that contributed to lead attrition at different stages and to propose strategies for enhancing its growth potential. You can click on this [link](html/edtech_analysis.html) to read my analysis.
+
+---
 [Ford Go Bike](https://github.com/NajibAdan/UdacityxALX/tree/main/Project_003)
 
-I used exploratory and explanatory visualizations based on the data available from the Ford Gobike share program in the San Francisco area to showcase: 
-- How the trips were spread out geographically
-- How gender, age and even membership can affect ride duration
-- How the trips were distributed across the month and day.
+I applied exploratory and explanatory data visualization techniques to the Ford Gobike share program data from the San Francisco area to reveal:
+
+- The geographic distribution of trips
+- The influence of gender, age and membership status on ride duration
+- The variation of trips across month and day.
 
 You can read my [report](html/fordgobike.html)
 <img src="images/fordgobike.png?raw=true"/>
