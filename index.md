@@ -5,7 +5,9 @@
 ### Data Visualization and Analysis
 
 [EdTech Data Analysis](https://github.com/NajibAdan/EdTech_Analysis)
+
 I conducted a comprehensive analysis of the customer acquisition process of an EdTech company to identify the factors that contributed to lead attrition at different stages and to propose strategies for enhancing its growth potential. You can click on this [link](html/edtech_analysis.html) to read my analysis.
+<img src="images/edtech.png?raw=true"/>
 
 ---
 [Ford Go Bike](https://github.com/NajibAdan/UdacityxALX/tree/main/Project_003)
