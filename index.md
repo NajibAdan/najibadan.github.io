@@ -1,7 +1,14 @@
 ## Portfolio
 
 ---
+### Data Science
 
+[Predicting Customer Churn for PowerCo](https://github.com/NajibAdan/forage_bcg_tasks)
+
+I conducted a thorough EDA to identify the main factors influencing customer churn. I dealt with outliers, engineered new features, and used ensemble machine learning techniques to classify customers into churners and non-churners. I also evaluated different discount strategies and their effects on revenue.
+<img src="images/powerco.png?raw=true">
+
+---
 ### Data Visualization and Analysis
 
 [EdTech Data Analysis](https://github.com/NajibAdan/EdTech_Analysis)
