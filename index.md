@@ -22,6 +22,15 @@ I conducted a comprehensive analysis of the customer acquisition process of an E
 <img src="images/edtech.png?raw=true"/>
 
 ---
+### Forage and Tata: Empowering Business with Effective Insights
+
+[![Open Visualization](https://img.shields.io/badge/Tableau-Open_Visualization-blue?logo=tableau)](https://public.tableau.com/app/profile/najib.adan/viz/TataViz/Sheet1)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NajibAdan/tata_viz)
+
+I framed [the business scenario](pdf/questions_to_ask.pdf) by anticipating the questions business leaders will need answers to, created visuals based on those business scenarios and effectively communicated my [findings](pdf/script.pdf) and explain how it relates to each scenario. 
+<img src="images/tata.png">
+
+---
 ### Ford Go Bike
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](html/fordgobike.html)
